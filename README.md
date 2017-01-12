@@ -33,12 +33,12 @@ http://dbunit.sourceforge.net/
 
 `git commit -m "first commit"`
 
-`git remote add origin git@github.com:danielso2007/estudo_rest_jersey_spring_scl.git`
+`git remote add origin git@github.com:danielso2007/estudo_rest_jersey_spring_hibernate_querydsl_scl.git`
 
 `git push -u origin master`
 
 ## …or push an existing repository from the command line
 
-`git remote add origin git@github.com:danielso2007/estudo_rest_jersey_spring_scl.git`
+`git remote add origin git@github.com:danielso2007/git@github.com:danielso2007/estudo_rest_jersey_spring_hibernate_querydsl_scl.git`
 
 `git push -u origin master`
